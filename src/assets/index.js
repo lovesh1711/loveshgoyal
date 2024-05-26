@@ -46,6 +46,7 @@ import endureair from "./company/endureair.png";
 import lovesh from "./carrent.png";
 import pendulum from "./pendulum.png";
 import cable from "./tethered.png";
+import uav3d from "./uav3Dpaths.png";
 import stylus from "./stylus.png";
 import copter from "./copter.png";
 import wayfinder from "./wayfinder.png";
@@ -106,4 +107,5 @@ export {
   EKF,
   stylus,
   cable,
+  uav3d,
 };

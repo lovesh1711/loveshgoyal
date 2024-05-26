@@ -93,7 +93,7 @@ const Works = () => {
 
         Following are some of my projects which showcases my skills and experience through
           real-world examples of my work. Each project is briefly described with
-          links to code repositories and live demos in it. Kindly find my detailed resume <a href="https://drive.google.com/file/d/17BaFxBT6H1fqOD-Z0gRwVquzmADzw9qt/view?usp=sharing" target="_blank" rel="noopener noreferrer" style={{ color: 'red' }} className="font-bold underline">here</a>, which reflects my
+          links to code repositories and live demos in it. Kindly find my detailed resume <a href="https://drive.google.com/file/d/1z0VYoDJxzaMwvYqZmj0MGQDTYO4CYw7v/view?usp=sharing" target="_blank" rel="noopener noreferrer" style={{ color: 'red' }} className="font-bold underline">here</a>, which reflects my
           ability to solve complex problems, work with different technologies,
           and manage projects effectively. 
       </p>

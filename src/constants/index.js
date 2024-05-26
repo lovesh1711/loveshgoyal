@@ -41,6 +41,7 @@ import {
     threejs,
     stylus,
     cable,
+    uav3d,
     github,
     IvLabs,
     tum,
@@ -222,6 +223,25 @@ import {
   ];
   
   const projects = [
+
+    {
+      name: "Multi-UAV path planning for urban air mobility",
+      description:
+        "Aimed to design an efficient algorithm that entails the intricate task of ensuring collision-free paths for multiple drones operating within the same airspace, all while minimizing time and cost.  ",
+      tags: [
+        {
+          name: "MATLAB",
+          color: "blue-text-gradient",
+        },
+
+    
+        
+        
+      ],
+      image: uav3d,
+      source_code_link: "https://github.com/lovesh1711/Multi-UAV-Path-Planning-for-Urban-Air-Mobility",
+    },
+
     {
       name: "Tethered Aerial Vehicle for Blind Navigation",
       description:
