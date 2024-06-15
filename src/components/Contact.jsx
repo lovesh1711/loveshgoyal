@@ -32,6 +32,9 @@ const SocialIcons = () => {
 }
 
 
+/// template_nrtz96g
+/// service_hw0oezg
+/// bF24hRbR97n45vMax
 
 
 const Contact = () => {
@@ -57,12 +60,10 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);
-// template_nrtz96g
-// service_jc6tqx8
-// bF24hRbR97n45vMax
+
     emailjs
       .send(
-        'service_jc6tqx8',
+        'service_hw0oezg',
         'template_nrtz96g',
         {
           from_name: form.name,
