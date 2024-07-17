@@ -48,12 +48,15 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
 
-I am a final-year student at the National Institute of Technology (NIT) Nagpur, India, pursuing a Bachelor's degree in Electrical and Electronics Engineering. 
-In addition to my academic pursuits, I am a core member of IvLabs, a student-run Robotics and AI community at our institute.
-I am primarily interested in classical control system especially those in aerial platforms. As an undergraduate, 
-I have worked actively contributed to purposeful projects addressing real-world challenges. 
-I am keen on collaborative opportunities and eager to connect with professionals working in similar domains. 
-Together, we can bring innovative ideas to reality.
+
+I am a PhD scholar at IIT Madras in the Aerospace Engineering department, specializing in flight dynamics and control. 
+I completed my Bachelor's in Electrical and Electronic Engineering from National Institute of Technology (NIT) Nagpur.
+My primary interest lies in control systems, particularly those in aerial platforms. I am excited to deepen my understanding of these fields. 
+I have been involved in purposeful projects that combine control theory with the automation of aerial systems and computer vision.
+
+I am looking forward to connecting with people working in similar domains. Let's collaborate and bring innovative ideas to reality!
+ 
+
       </motion.p>
 
       {/* <div className='mt-20 flex flex-wrap gap-10'>
