@@ -43,5 +43,5 @@ jobs:
         rm -rf package-lock.json
         rm -rf package.json
         git add .
-        git commit -m "lovesh push"
+        git commit -m "push the script"
         git push --force origin loveshgoyal
